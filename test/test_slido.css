@@ -1,0 +1,12 @@
+.iframe_side{
+	display: table;
+	width:100%;
+}
+.iframe_side_by_side .align{
+	display: table-cell;
+	vertical-align: middle;
+	width:50%;
+	padding-right:0;
+	padding-left:0;
+	overflow:hidden;
+}
